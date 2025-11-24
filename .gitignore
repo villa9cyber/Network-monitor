@@ -1,0 +1,10 @@
+# Logs
+*.csv
+network_log.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (if you use a .env file)
+.env
