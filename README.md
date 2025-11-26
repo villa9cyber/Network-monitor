@@ -53,5 +53,9 @@ The script will start monitoring. Keep the terminal window open. Press `Ctrl+C` 
 ## Logs
 All activity is saved to `network_log.csv` in the same directory as the script.
 
+## 📚 Technical Documentation
+Interested in how this tool works under the hood?
+[Read the full Technical Report here](./TECHNICAL_REPORT.md)
+
 ## Disclaimer
 This tool is for educational and defensive purposes only. Use responsibly.
